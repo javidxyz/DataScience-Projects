@@ -1,6 +1,6 @@
 # Comparative Financial Analysis of Tesla and GameStop
 
-This notebook explores historical stock performance and quarterly revenue data for Tesla (TSLA) and GameStop (GME). It was created as part of the final project for the IBM Data Science Professional Certificate.
+This notebook explores historical stock performance and quarterly revenue data for Tesla (TSLA) and GameStop (GME). It was created as part of the project for the IBM Data Science Professional Certificate.
 
 The analysis involves data extraction, cleaning, and visualization to compare the financial trends of both companies.
 
