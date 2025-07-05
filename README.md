@@ -55,7 +55,3 @@ July 2025
 
 ---
 
-## 📜 License
-
-This project is for educational purposes only, created as part of IBM’s Capstone assignment on Coursera.
-
